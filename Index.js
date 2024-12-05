@@ -18,6 +18,7 @@
  * 2. Set the flood date using the "Exact Flood Date" slider.
  * 3. Click "Run Analysis" to process the data.
  * 4. View results on the map and in the UI panel.
+ * Author: Pouria Sharifi
  *******************************************************/
 
 // Define the Sentinel-1 ImageCollection
